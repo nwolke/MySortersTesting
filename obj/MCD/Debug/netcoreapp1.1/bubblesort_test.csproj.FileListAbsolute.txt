@@ -1,0 +1,8 @@
+C:\Coursera\generalpractice\bubblesort_test\bin\MCD\Debug\netcoreapp1.1\bubblesort_test.deps.json
+C:\Coursera\generalpractice\bubblesort_test\bin\MCD\Debug\netcoreapp1.1\bubblesort_test.runtimeconfig.json
+C:\Coursera\generalpractice\bubblesort_test\bin\MCD\Debug\netcoreapp1.1\bubblesort_test.runtimeconfig.dev.json
+C:\Coursera\generalpractice\bubblesort_test\bin\MCD\Debug\netcoreapp1.1\bubblesort_test.dll
+C:\Coursera\generalpractice\bubblesort_test\bin\MCD\Debug\netcoreapp1.1\bubblesort_test.pdb
+C:\Coursera\generalpractice\bubblesort_test\obj\MCD\Debug\netcoreapp1.1\bubblesort_test.AssemblyInfo.cs
+C:\Coursera\generalpractice\bubblesort_test\obj\MCD\Debug\netcoreapp1.1\bubblesort_test.dll
+C:\Coursera\generalpractice\bubblesort_test\obj\MCD\Debug\netcoreapp1.1\bubblesort_test.pdb

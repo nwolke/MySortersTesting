@@ -1,0 +1,8 @@
+C:\Coursera\generalpractice\sorting_test\bin\MCD\Debug\netcoreapp1.1\sort_test.deps.json
+C:\Coursera\generalpractice\sorting_test\bin\MCD\Debug\netcoreapp1.1\sort_test.runtimeconfig.json
+C:\Coursera\generalpractice\sorting_test\bin\MCD\Debug\netcoreapp1.1\sort_test.runtimeconfig.dev.json
+C:\Coursera\generalpractice\sorting_test\bin\MCD\Debug\netcoreapp1.1\sort_test.dll
+C:\Coursera\generalpractice\sorting_test\bin\MCD\Debug\netcoreapp1.1\sort_test.pdb
+C:\Coursera\generalpractice\sorting_test\obj\MCD\Debug\netcoreapp1.1\sort_test.AssemblyInfo.cs
+C:\Coursera\generalpractice\sorting_test\obj\MCD\Debug\netcoreapp1.1\sort_test.dll
+C:\Coursera\generalpractice\sorting_test\obj\MCD\Debug\netcoreapp1.1\sort_test.pdb
